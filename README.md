@@ -40,33 +40,33 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
 
 *   **[Visvakam_GCS](https://github.com/Praddyx15/Visvakam_GCS)**
     *   *Designation:* Assignment for a job role
-    *   *Tech Stack:* C++
+    *   *Tech Stack:* C++, Qt
     *   *Description:* A cross-platform Ground Control Station (GCS) for drones, optimized for Android, iOS, macOS, Linux, and Windows, based on QGroundControl.
     
 *   **[FMS](https://github.com/Praddyx15/FMS)**
     *   *Designation:* Junior software engineer
-    *   *Tech Stack:* QML
+    *   *Tech Stack:* C++, Qt/QML
     *   *Description:* Core Flight Management System (FMS) modules and simulation components.
 
 *   **[lms-aerotrain-pro-cbt](https://github.com/Praddyx15/lms-aerotrain-pro-cbt)**
     *   *Designation:* Freelance work (Training LMS, crew training focused)
-    *   *Tech Stack:* TypeScript
+    *   *Tech Stack:* TypeScript, React, JavaScript, HTML (Full Stack Development)
     *   *Description:* Computer-Based Training (CBT) Learning Management System (LMS) designed for pilot and crew systems training.
 
 *   **[FlightMD](https://github.com/Praddyx15/FlightMD)**
     *   *Designation:* Personal project
-    *   *Tech Stack:* Python
+    *   *Tech Stack:* Python, React, TypeScript, CSS
     *   *Description:* Aircraft telemetry analysis and flight dynamics visualization engine.
 
 *   **[UAOP](https://github.com/Praddyx15/UAOP)**
     *   *Designation:* Personal project
-    *   *Tech Stack:* QML
+    *   *Tech Stack:* C++, Qt/QML
     *   *Description:* Unmanned Aircraft Operations Program interface for routing and payload control.
 
 *   **[FATCAP](https://github.com/Praddyx15/FATCAP)**
     *   *Designation:* Freelance website design, and development work
-    *   *Tech Stack:* HTML
-    *   *Description:* Responsive web application and site design built for professional service operations.
+    *   *Tech Stack:* React, Figma, Spline, three.js
+    *   *Description:* Responsive web application and interactive site design built with 3D elements for professional service operations.
 
 ---
 
