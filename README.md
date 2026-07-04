@@ -22,10 +22,10 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
       <h4>🛰️ Aerospace & Avionics Domains</h4>
       <ul>
         <li><strong>Flight Management Systems (FMS)</strong> simulation & design</li>
-        <li><strong>Ground Control Stations (GCS)</strong> for multi-platform UAV operations</li>
+        <li><strong>Ground Control Stations (GCS)</strong> for UAV operations</li>
         <li><strong>Autopilot Integration & Telemetry</strong> analysis</li>
         <li><strong>Pilot Training Technologies</strong> (Computer-Based Training, LMS)</li>
-        <li><strong>Motion Platforms & Simulator Software</strong> interfaces</li>
+        <li><strong>Website Design & Development</strong> for technical projects</li>
       </ul>
     </td>
   </tr>
@@ -33,23 +33,37 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
 
 ---
 
-### 🚁 Featured Aerospace & Avionics Projects
+### 🚁 Featured Projects
 
 *   **[Visvakam_GCS](https://github.com/Praddyx15/Visvakam_GCS)**
-    *   *Role:* Lead Developer (C++)
-    *   *Description:* A high-performance, cross-platform Ground Control Station (GCS) for unmanned systems, optimized for Android, iOS, macOS, Linux, and Windows. Developed to monitor and command drone telemetry streams in real time.
+    *   *Designation:* Assignment for a job role
+    *   *Tech Stack:* C++
+    *   *Description:* A cross-platform Ground Control Station (GCS) for drones, optimized for Android, iOS, macOS, Linux, and Windows, based on QGroundControl.
     
-*   **[A320-fms](https://github.com/Praddyx15/A320-fms) / [FMS](https://github.com/Praddyx15/FMS)**
-    *   *Role:* Avionics Software Engineer (TypeScript / QML / C++)
-    *   *Description:* High-fidelity Airbus A320 Flight Management System (FMS) simulation. Mimics MCDU/FMS flight planning, lateral/vertical navigation logic, and performance calculations for pilots and simulators.
+*   **[FMS](https://github.com/Praddyx15/FMS)**
+    *   *Designation:* Junior software engineer
+    *   *Tech Stack:* QML
+    *   *Description:* Core Flight Management System (FMS) modules and simulation components.
 
 *   **[lms-aerotrain-pro-cbt](https://github.com/Praddyx15/lms-aerotrain-pro-cbt)**
-    *   *Role:* Frontend & Core Architect (TypeScript)
-    *   *Description:* Interactive Computer-Based Training (CBT) Learning Management System (LMS) engineered for pilot education, aircraft systems navigation, and maintenance procedures.
+    *   *Designation:* Freelance work (Training LMS, crew training focused)
+    *   *Tech Stack:* TypeScript
+    *   *Description:* Computer-Based Training (CBT) Learning Management System (LMS) designed for pilot and crew systems training.
 
-*   **[motion-ai-pilots-zone](https://github.com/Praddyx15/motion-ai-pilots-zone)**
-    *   *Role:* Systems Integrator (TypeScript)
-    *   *Description:* Interface system routing AI-driven motion telemetry, simulation parameters, and pilot controls to flight simulator motion platforms.
+*   **[FlightMD](https://github.com/Praddyx15/FlightMD)**
+    *   *Designation:* Personal project
+    *   *Tech Stack:* Python
+    *   *Description:* Aircraft telemetry analysis and flight dynamics visualization engine.
+
+*   **[UAOP](https://github.com/Praddyx15/UAOP)**
+    *   *Designation:* Personal project
+    *   *Tech Stack:* QML
+    *   *Description:* Unmanned Aircraft Operations Program interface for routing and payload control.
+
+*   **[FATCAP](https://github.com/Praddyx15/FATCAP)**
+    *   *Designation:* Freelance website design, and development work
+    *   *Tech Stack:* HTML
+    *   *Description:* Responsive web application and site design built for professional service operations.
 
 ---
 
