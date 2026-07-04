@@ -73,10 +73,10 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praddyx15&show_icons=true&theme=tokyonight&count_private=true" alt="Praddyx15's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Praddyx15&show_icons=true&theme=tokyonight&count_private=true" alt="Praddyx15's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praddyx15&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Praddyx15&layout=compact&theme=tokyonight" alt="Top Languages" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praddyx15&theme=tokyonight" alt="GitHub Streak" />
 </p>
