@@ -47,26 +47,32 @@ I'm a **Software Engineer & Aerospace/Avionics Developer** specialising in Groun
 ### 🚁 Featured Projects
 
 *   **[FlightMD](https://github.com/Praddyx15/FlightMD)** — *Personal project*
+*   
     **`Python` · `FastAPI` · `TypeScript` · `Next.js` · `React`**
     A fully local, deterministic flight-log diagnostics platform for PX4 (`.ulg`), ArduPilot (`.bin`), and MAVLink (`.tlog`) telemetry. Runs rule-based signal analysis (control-loop oscillation, IMU vibration, EKF health, battery sag, GPS integrity, motor balance) with no cloud AI dependency, and renders a 2D/3D flight-path replay client-side. Validated against 50+ real public flight logs spanning 11 vehicle types.
 
 *   **[Visvakam_GCS](https://github.com/Praddyx15/Visvakam_GCS)** — *Assignment, systems engineering role*
+*   
     **`C++` · `Qt/QML` · `CMake` · `Python`**
     A cross-platform Ground Control Station for drones (Android, iOS, macOS, Linux, Windows), built on the QGroundControl codebase — covers mission planning, live telemetry, and vehicle configuration across desktop and mobile targets.
 
 *   **[UAOP](https://github.com/Praddyx15/UAOP)** — *Personal project*
+*   
     **`C++17` · `Qt6/QML` · `Python` · `FastAPI` · `MAVLink` · `ROS 2` · `PostgreSQL/TimescaleDB`**
     An operations platform designed to sit above existing UAV autonomy stacks (PX4, ArduPilot, MAVLink, ROS 2, Gazebo) and unify ground control, tuning, simulation, AI-assisted diagnostics, and fleet operations into one edge-to-cloud product — architected for full offline/air-gapped field operation.
 
 *   **[FMS](https://github.com/Praddyx15/FMS)** — *Junior software engineer role*
+*   
     **`C++` · `Qt/QML` · `CMake`**
     Core Flight Management System modules and simulation components — navigation, guidance, and flight-plan logic.
 
 *   **[lms-aerotrain-pro-cbt](https://github.com/Praddyx15/lms-aerotrain-pro-cbt)** — *Freelance, crew training*
+*   
     **`TypeScript` · `React` · `JavaScript` · `CSS`**
     A Computer-Based Training (CBT) Learning Management System built for pilot and crew systems training — course delivery, progress tracking, and assessment in a single web app.
 
 *   **[FATCAP](https://github.com/Praddyx15/FATCAP)** — *Freelance, web design & development*
+*   
     **`React` · `Three.js` · `TypeScript` · `Figma` · `Spline`**
     A responsive, interactive web application built around real-time 3D scenes for a professional services brand — motion-driven UI over a Next.js/React front end.
 
