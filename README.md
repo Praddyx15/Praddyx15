@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Praddy!
 
-I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avionics simulation, Unmanned Aircraft Systems (UAS), Flight Management Systems (FMS), and cross-platform flight software. I build robust systems connecting hardware and software for pilot training, simulation, and drone telemetry.
+I'm a **Software Engineer & Aerospace/Avionics Developer** specialising in Ground Control Stations, Flight Management Systems, autopilot telemetry, and cross-platform flight software — building systems that connect hardware, flight data, and the people operating both.
 
 ---
 
@@ -13,22 +13,30 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Qt%2F%20QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt/QML" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td valign="top" width="50%">
       <h4>🛰️ Aerospace & Avionics Domains</h4>
       <ul>
-        <li><strong>Flight Management Systems (FMS)</strong> simulation & design</li>
-        <li><strong>Ground Control Stations (GCS)</strong> for UAV operations</li>
-        <li><strong>Autopilot Integration & Telemetry</strong> analysis</li>
-        <li><strong>Pilot Training Technologies</strong> (Computer-Based Training, LMS)</li>
-        <li><strong>Website Design & Development</strong> for technical projects</li>
+        <li><strong>Ground Control Stations (GCS)</strong> — cross-platform UAV operator interfaces</li>
+        <li><strong>Flight Management Systems (FMS)</strong> — simulation and core module design</li>
+        <li><strong>Autopilot Telemetry & Diagnostics</strong> — PX4 / ArduPilot / MAVLink log analysis</li>
+        <li><strong>Unmanned Systems Operations</strong> — routing, payload control, fleet tooling</li>
+        <li><strong>Pilot & Crew Training Technology</strong> — Computer-Based Training (CBT), LMS platforms</li>
+        <li><strong>Interactive Web & 3D</strong> — data visualisation and product sites for technical audiences</li>
       </ul>
     </td>
   </tr>
@@ -38,35 +46,29 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
 
 ### 🚁 Featured Projects
 
-*   **[Visvakam_GCS](https://github.com/Praddyx15/Visvakam_GCS)**
-    *   *Designation:* Assignment for a job role
-    *   *Tech Stack:* C++, Qt
-    *   *Description:* A cross-platform Ground Control Station (GCS) for drones, optimized for Android, iOS, macOS, Linux, and Windows, based on QGroundControl.
-    
-*   **[FMS](https://github.com/Praddyx15/FMS)**
-    *   *Designation:* Junior software engineer
-    *   *Tech Stack:* C++, Qt/QML
-    *   *Description:* Core Flight Management System (FMS) modules and simulation components.
+*   **[FlightMD](https://github.com/Praddyx15/FlightMD)** — *Personal project*
+    **`Python` · `FastAPI` · `TypeScript` · `Next.js` · `React`**
+    A fully local, deterministic flight-log diagnostics platform for PX4 (`.ulg`), ArduPilot (`.bin`), and MAVLink (`.tlog`) telemetry. Runs rule-based signal analysis (control-loop oscillation, IMU vibration, EKF health, battery sag, GPS integrity, motor balance) with no cloud AI dependency, and renders a 2D/3D flight-path replay client-side. Validated against 50+ real public flight logs spanning 11 vehicle types.
 
-*   **[lms-aerotrain-pro-cbt](https://github.com/Praddyx15/lms-aerotrain-pro-cbt)**
-    *   *Designation:* Freelance work (Training LMS, crew training focused)
-    *   *Tech Stack:* TypeScript, React, JavaScript, HTML (Full Stack Development)
-    *   *Description:* Computer-Based Training (CBT) Learning Management System (LMS) designed for pilot and crew systems training.
+*   **[Visvakam_GCS](https://github.com/Praddyx15/Visvakam_GCS)** — *Assignment, systems engineering role*
+    **`C++` · `Qt/QML` · `CMake` · `Python`**
+    A cross-platform Ground Control Station for drones (Android, iOS, macOS, Linux, Windows), built on the QGroundControl codebase — covers mission planning, live telemetry, and vehicle configuration across desktop and mobile targets.
 
-*   **[FlightMD](https://github.com/Praddyx15/FlightMD)**
-    *   *Designation:* Personal project
-    *   *Tech Stack:* Python, React, TypeScript, CSS
-    *   *Description:* Aircraft telemetry analysis and flight dynamics visualization engine.
+*   **[UAOP](https://github.com/Praddyx15/UAOP)** — *Personal project*
+    **`C++17` · `Qt6/QML` · `Python` · `FastAPI` · `MAVLink` · `ROS 2` · `PostgreSQL/TimescaleDB`**
+    An operations platform designed to sit above existing UAV autonomy stacks (PX4, ArduPilot, MAVLink, ROS 2, Gazebo) and unify ground control, tuning, simulation, AI-assisted diagnostics, and fleet operations into one edge-to-cloud product — architected for full offline/air-gapped field operation.
 
-*   **[UAOP](https://github.com/Praddyx15/UAOP)**
-    *   *Designation:* Personal project
-    *   *Tech Stack:* C++, Qt/QML
-    *   *Description:* Unmanned Aircraft Operations Program interface for routing and payload control.
+*   **[FMS](https://github.com/Praddyx15/FMS)** — *Junior software engineer role*
+    **`C++` · `Qt/QML` · `CMake`**
+    Core Flight Management System modules and simulation components — navigation, guidance, and flight-plan logic.
 
-*   **[FATCAP](https://github.com/Praddyx15/FATCAP)**
-    *   *Designation:* Freelance website design, and development work
-    *   *Tech Stack:* React, Figma, Spline, three.js
-    *   *Description:* Responsive web application and interactive site design built with 3D elements for professional service operations.
+*   **[lms-aerotrain-pro-cbt](https://github.com/Praddyx15/lms-aerotrain-pro-cbt)** — *Freelance, crew training*
+    **`TypeScript` · `React` · `JavaScript` · `CSS`**
+    A Computer-Based Training (CBT) Learning Management System built for pilot and crew systems training — course delivery, progress tracking, and assessment in a single web app.
+
+*   **[FATCAP](https://github.com/Praddyx15/FATCAP)** — *Freelance, web design & development*
+    **`React` · `Three.js` · `TypeScript` · `Figma` · `Spline`**
+    A responsive, interactive web application built around real-time 3D scenes for a professional services brand — motion-driven UI over a Next.js/React front end.
 
 ---
 
@@ -84,5 +86,5 @@ I am a **Software Engineer & Aerospace/Avionics Developer** specialized in avion
 ---
 
 <p align="center">
-  🚀 <em>Developing the future of flight simulation and unmanned systems.</em>
+  🚀 <em>Building the tools that sit between flight hardware and the people who fly it.</em>
 </p>
