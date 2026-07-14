@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3d1e6d,100:6a3093&height=220&section=header&text=Hi%2C%20I'm%20Praddy&fontSize=52&fontColor=E8DFFF&animation=fadeIn&fontAlignY=38&desc=Aerospace%20%26%20Avionics%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C9B8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3d1e6d,100:6a3093&height=220&section=header&text=Hi%2C%20I%20am%20Praddy&fontSize=52&fontColor=E8DFFF&animation=fadeIn&fontAlignY=38&desc=Aerospace%20%26%20Avionics%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C9B8FF" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=B39DDB&center=true&vCenter=true&width=650&lines=Ground+Control+Stations+%7C+Flight+Management+Systems;PX4+%2F+ArduPilot+%2F+MAVLink+Telemetry+Analysis;Full-Stack+Systems+Engineering" alt="Typing SVG" />
@@ -207,10 +207,6 @@ A responsive, interactive web application built around real-time 3D scenes for a
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Praddyx15&layout=compact&theme=tokyonight" alt="Top Languages" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praddyx15&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praddyx15&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <br/>
